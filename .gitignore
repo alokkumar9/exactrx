@@ -1,0 +1,6 @@
+# Exclude folders
+chroma_db/
+__pycache__/
+exact/
+# Exclude specific file
+.env
